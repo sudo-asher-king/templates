@@ -63,10 +63,13 @@ You can contribute by:
 - Templates work without errors
 
 ## Folder Structure (Example)
-/templates
-  /school
-  /restaurant
-  /portfolio
+/templates  
+  /restaurant1  
+  /school1  
+  /restaurant1  
+  /portfolio1  
+
+The website type should form the base name of the folder, for example "school" for a school website. Followed by the latest available number acting as a template count for that website type. That makes a new template folder adopt a name like "portfolio3"
 
 Each template should include:
 - index.html
